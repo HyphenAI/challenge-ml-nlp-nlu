@@ -19,13 +19,13 @@ answer is.
 The user input can be slightly(or even totally different, that can be
 cover later on) different from the based question
 
-Example:
-	In dataset:  
-		Q: what's your address  
-		A: I don't have any address  
-	User input:  
-		Q: where are you located  
-		A: I don't have any address
+Example:  
+     In dataset:  
+         Q: what's your address  
+         A: I don't have any address  
+     User input:  
+        Q: where are you located  
+        A: I don't have any address
 
 ##Data
 
