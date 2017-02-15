@@ -20,35 +20,34 @@ The user input can be slightly(or even totally different, that can be
 cover later on) different from the based question
 
 Example:
-	In dataset:
-		Q: what's your address
-		A: I don't have any address
-	User input:
-		Q: where are you located
+	In dataset:  
+		Q: what's your address  
+		A: I don't have any address  
+	User input:  
+		Q: where are you located  
 		A: I don't have any address
 
 ##Data
 
 You will be provided 2 files to work with:
 	
-	* train_dataset.txt, is the dataset for training, it's formatted
-	in a way to be easy to process:
-		1- first line is a question
-		2- second line is the answer to the question
-	you can take it another way:
-		1- Odd line number is a question
-		2- Even line number is an answer
-	* test_dataset.txt is the dataset for testing, it's formatted
-	in a way to be easy to process:
-		1- first line is a question
-		2- second line is the right answer to the question
-	you can take it another way:
-		1- Odd line number is a question
-		2- Even line number is a right answer
-	You can use the test file to benchmarck your system, by comparing
-	the answer ouput by your system and the answer expected
-
-	That is useful to benchmarck your system, and tailor it
+*  train_dataset.txt, is the dataset for training, it's formatted in a way to be easy to process:  
+		1- first line is a question  
+		2- second line is the answer to the question  
+		
+   you can take it another way:  
+		1- Odd line number is a question  
+		2- Even line number is an answer  
+		
+*  test_dataset.txt is the dataset for testing, it's formatted in a way to be easy to process:  
+		1- first line is a question  
+		2- second line is the right answer to the question  
+   you can take it another way:  
+		1- Odd line number is a question  
+		2- Even line number is a right answer  
+   You can use the test file to benchmarck your system, by comparing the answer ouput by your system and the answer expected  
+   
+   That is useful to benchmarck your system, and tailor it
 
 
 ##Expectation
