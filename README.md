@@ -7,7 +7,7 @@ Hi folks, this is a small ML/NLP/NLU challenge to see if you've got
 what we need at Skylar Labs as a potential candidates for a position
 as ML/NLP/NLU Software Engineer.
 
-Task
+##Task
 
 The task is simple, build a Retrieval System to pick the right answer
 to a certain question, from a dataset.
@@ -27,7 +27,7 @@ Example:
 		Q: where are you located
 		A: I don't have any address
 
-Data
+##Data
 
 You will be provided 2 files to work with:
 	
@@ -51,7 +51,8 @@ You will be provided 2 files to work with:
 	That is useful to benchmarck your system, and tailor it
 
 
-Expectation
+##Expectation
+
 
 What is expected is to get the highest accuracy possible, in the near 
 future, the system will evolve in memory awared system, where the 
