@@ -29,9 +29,9 @@ Example:
 
 ##Data
 
-You will be provided 2 files to work with:
+You will be provided 4 files to work with, 2 files for each steps(training and test):
 	
-*  train_dataset.txt, is the dataset for training, it's formatted in a way to be easy to process:  
+*  train_dataset.txt, train_dataset_2.txt, are the dataset for training, it's formatted in a way to be easy to process:  
 		1- first line is a question  
 		2- second line is the answer to the question  
 		
@@ -39,7 +39,7 @@ You will be provided 2 files to work with:
 		1- Odd line number is a question  
 		2- Even line number is an answer  
 		
-*  test_dataset.txt is the dataset for testing, it's formatted in a way to be easy to process:  
+*  test_dataset.txt, test-data.txt are the dataset for testing, it's formatted in a way to be easy to process:  
 		1- first line is a question  
 		2- second line is the right answer to the question  
    you can take it another way:  
