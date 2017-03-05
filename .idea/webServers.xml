@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d1d52e0c-ac10-4ed3-a7de-0e57aa35d7b9" name="reviews_server" url="http://localhost">
+        <fileTransfer host="localhost" port="2169" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/amit" accessType="SFTP" username="amit" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2169" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
